@@ -5,3 +5,8 @@ sphinx-external-toc
 jupyter
 ipython
 myst-nb>=0.13.0
+sphinxcontrib-bibtex
+sphinx-thebe
+sphinx-design
+pandas
+plotly.express
