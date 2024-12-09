@@ -1,8 +1,6 @@
 jupyter-book
-matplotlib
-numpy
 sphinx>=6.0.0
 myst-parser
 sphinx-external-toc
-ipython
 jupyter
+ipython

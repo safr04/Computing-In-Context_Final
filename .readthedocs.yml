@@ -3,8 +3,10 @@ build:
   os: ubuntu-20.04
   tools:
     python: "3.9"
+
 sphinx:
-  configuration: _config.yml # Points to the correct configuration file
+  configuration: _config.yml # Jupyter Book uses _config.yml instead of conf.py
+
 python:
   install:
     - requirements: requirements.txt
