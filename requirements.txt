@@ -4,3 +4,4 @@ myst-parser
 sphinx-external-toc
 jupyter
 ipython
+myst-nb>=0.13.0
