@@ -6,7 +6,7 @@ build:
     python: "3.9"
 
 sphinx:
-  configuration: _config.yml
+  configuration: Computing In Context_Final/_config.yml
   builder: html # Optional but ensures it builds HTML format
 
 python:
