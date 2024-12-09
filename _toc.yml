@@ -1,0 +1,6 @@
+format: jb-book
+root: intro
+chapters:
+  - file: Computing In Context_Final/Project 1
+  - file: Computing In Context_Final/Project 2
+  - file: Computing In Context_Final/Project 3
