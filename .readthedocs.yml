@@ -6,7 +6,7 @@ build:
   tools:
     python: "3.9"
 sphinx:
-  configuration: conf.py
+  configuration: _config.yml
 python:
   install:
     - requirements: requirements.txt
