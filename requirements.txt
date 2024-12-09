@@ -1,0 +1,2 @@
+jupyter-book
+sphinx>=6.2.0
