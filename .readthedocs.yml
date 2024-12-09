@@ -6,7 +6,7 @@ build:
     python: "3.9"
 
 sphinx:
-  configuration: confy.py
+  configuration: conf.py
   builder: html # Optional but ensures it builds HTML format
 
 python:
