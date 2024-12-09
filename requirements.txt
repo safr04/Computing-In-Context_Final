@@ -10,3 +10,4 @@ sphinx-thebe
 sphinx-design
 pandas
 plotly.express
+sphinx_rtd_theme
